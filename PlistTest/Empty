@@ -1,0 +1,30 @@
+{
+adeptCourse = "397831846391037952,384386388574998529,384386388579192832,";
+area = "<null>";
+birthDate = "<null>";
+certificateImage = "";
+citNum = "<null>";
+city = "\U592a\U539f";
+classificationTypeEk = "<null>";
+couNum = "<null>";
+countClassTime = "<null>";
+country = "\U5c0f\U5e97\U533a";
+createTime = "2017-07-13 22:34:23";
+headImage = "http://op08k4l50.bkt.clouddn.com/21325696_21325696_1369576126699.jpg";
+id = 399360392419352576;
+institutionManageId = 398454680205516800;
+institutionName = "<null>";
+integral = 0;
+intro = "";
+isDefault = 1;
+isExperience = "<null>";
+memberId = 399360392419352577;
+memberType = 1;
+mobile = 18060993067;
+name = "\U674e\U56db";
+nickName = "<null>";
+parentMemberId = "<null>";
+patriarch = "<null>";
+patriarchTel = "<null>";
+}
+
