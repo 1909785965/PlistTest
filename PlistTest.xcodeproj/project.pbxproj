@@ -13,7 +13,6 @@
 		F5236C071FF6127F00D327D7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F5236C051FF6127F00D327D7 /* Main.storyboard */; };
 		F5236C091FF6127F00D327D7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F5236C081FF6127F00D327D7 /* Assets.xcassets */; };
 		F5236C0C1FF6127F00D327D7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F5236C0A1FF6127F00D327D7 /* LaunchScreen.storyboard */; };
-		F5236C141FF61D1B00D327D7 /* zsr.JPG in Resources */ = {isa = PBXBuildFile; fileRef = F5236C131FF61D1B00D327D7 /* zsr.JPG */; };
 		F5236C181FF61D9200D327D7 /* CStrings.strings in Resources */ = {isa = PBXBuildFile; fileRef = F5236C171FF61D9200D327D7 /* CStrings.strings */; };
 		F5236C1A1FF61DB000D327D7 /* Empty in Resources */ = {isa = PBXBuildFile; fileRef = F5236C191FF61DAF00D327D7 /* Empty */; };
 		F5236C1D1FF622B500D327D7 /* SecViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F5236C1C1FF622B500D327D7 /* SecViewController.m */; };
@@ -32,7 +31,6 @@
 		F5236C081FF6127F00D327D7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F5236C0B1FF6127F00D327D7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F5236C0D1FF6127F00D327D7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F5236C131FF61D1B00D327D7 /* zsr.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = zsr.JPG; sourceTree = "<group>"; };
 		F5236C171FF61D9200D327D7 /* CStrings.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = CStrings.strings; sourceTree = "<group>"; };
 		F5236C191FF61DAF00D327D7 /* Empty */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Empty; sourceTree = "<group>"; };
 		F5236C1B1FF622B500D327D7 /* SecViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecViewController.h; sourceTree = "<group>"; };
@@ -71,7 +69,6 @@
 		F5236BFB1FF6127F00D327D7 /* PlistTest */ = {
 			isa = PBXGroup;
 			children = (
-				F5236C131FF61D1B00D327D7 /* zsr.JPG */,
 				F5236C171FF61D9200D327D7 /* CStrings.strings */,
 				F5236C191FF61DAF00D327D7 /* Empty */,
 				F5236C201FF6247C00D327D7 /* Property List.plist */,
@@ -138,6 +135,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -160,7 +158,6 @@
 				F5236C0C1FF6127F00D327D7 /* LaunchScreen.storyboard in Resources */,
 				F5236C1F1FF6231600D327D7 /* SecViewVontroller.xib in Resources */,
 				F5236C181FF61D9200D327D7 /* CStrings.strings in Resources */,
-				F5236C141FF61D1B00D327D7 /* zsr.JPG in Resources */,
 				F5236C091FF6127F00D327D7 /* Assets.xcassets in Resources */,
 				F5236C211FF6247C00D327D7 /* Property List.plist in Resources */,
 				F5236C071FF6127F00D327D7 /* Main.storyboard in Resources */,
@@ -326,6 +323,7 @@
 				F5236C121FF6127F00D327D7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
